@@ -1,6 +1,5 @@
 ---
 title: "Title"
-layout: default
 ---
 
 <ul>
