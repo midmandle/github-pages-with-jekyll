@@ -1,3 +1,7 @@
+---
+layout: default
+title: "LOL NO U"
+---
 <ul>
   {% for post in site.posts %}
     <li>
